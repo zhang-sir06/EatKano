@@ -111,8 +111,8 @@ body {
     position:fixed;
     top: 1em;
     width: 100%;
-    left: 0;
-    text-align: left;
+    left: 5px;
+    text-align: center;
     color: rgb(0, 191, 255);
     font-size: 2em;
     text-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 3px #fff;
