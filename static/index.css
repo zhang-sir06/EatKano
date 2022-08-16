@@ -111,9 +111,9 @@ body {
     top: 1em;
     left: 0;
     width: 100%;
-    text-align: center;
+    text-align: left;
     color: rgb(0, 191, 255);
-    font-size: 4em;
+    font-size: 2em;
     text-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 3px #fff;
     overflow: hidden;
 }
