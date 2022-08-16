@@ -108,8 +108,10 @@ body {
 }
 
 #GameTimeLayer {
+    position:fixed;
     top: 1em;
     width: 100%;
+    left: 0;
     text-align: left;
     color: rgb(0, 191, 255);
     font-size: 2em;
