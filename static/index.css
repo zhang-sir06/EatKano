@@ -113,7 +113,7 @@ body {
     left: 5px;
     text-align: center;
     color: rgb(0, 191, 255);
-    font-size: 2em;
+    font-size: 1.5em;
     text-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 3px #fff;
     overflow: hidden;
 }
