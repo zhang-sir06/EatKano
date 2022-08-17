@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://zhang-sir06.github.io/Eatbobi/">Eatbobi</a>
+  <a href="https://zhang-sir06.github.io/Eatbobi/"><img src="https://github.com/zhang-sir06/Eatbobi/blob/5e4c1ba13073d0b80a11ee5f989a2601ecd1f0cf/static/image/ClickAfter.png?raw=true" width="100" height="100" alt="Eatbobi"></a>
+
 </p>
 <div align="center">
 
