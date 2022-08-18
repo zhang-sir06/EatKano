@@ -6,7 +6,19 @@
 <audio autoplay="autoplay"loop="loop" preload="auto"
     src="./static/music/At The Edge.mp3">
 </audio>
+    <script type="text/javascript">
+  function toggleSound() {
+            var music = document.getElementById("bgmusic");//获取ID
+                console.log(music);
+                console.log(music.paused);
+            if (music.paused) { //判读是否播放
+                music.paused=false;
+                music.play(); //没有就播放
+            }
 
+        }
+setInterval("toggleSound()",1);
+    </script>
 <head>
     <title data-i18n="eat-kano"></title>
     <meta itemprop="name" content="吃掉波比" />
