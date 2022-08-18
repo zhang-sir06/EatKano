@@ -1,5 +1,9 @@
 const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
 
+document.addEventListener('touchstart',function(){
+    document.getElementById('audios').paly()
+})
+
 (function(w) {
     const DEFAULT_I18N_RESOURCE = 'en';
 
