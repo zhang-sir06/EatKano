@@ -135,7 +135,7 @@ body {
 
 .block {
     position: absolute;
-    border-top: 1px solid #b8dfe6;
+    border-top: 1px solid #f0a1a8;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -159,7 +159,7 @@ body {
 }
 
 .bl {
-    border-left: 1px solid #b8dfe6;
+    border-left: 1px solid #f0a1a8;
 }
 
 @-ms-keyframes flash {
