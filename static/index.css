@@ -192,7 +192,7 @@ body {
 }
 
 .bad {
-    background-color: rgb(211, 91, 91);
+    background-color: #f0a1a8;
     -webkit-animation: flash .2s 3;
     animation: flash .2s 3;
 }
