@@ -139,6 +139,14 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+.icon{ 
+    width:10px; 
+    height:10px 
+    display\:table-cell;
+    vertical-align: middle;
+    text-align: center;
+} 
+
 
 .t1,
 .t2,
