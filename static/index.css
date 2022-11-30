@@ -140,12 +140,12 @@ body {
     background-position: center;
 }
 .icon{ 
-    height:100px;
+    height:200px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.icon img{width:100px; height:100px} 
+.icon img{width:200px; height:200px} 
 
 .t1,
 .t2,
